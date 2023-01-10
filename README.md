@@ -1,2 +1,1 @@
-# Stepik
-Code for various problems in stepik course
+Code for various problems in MOOCs courses
